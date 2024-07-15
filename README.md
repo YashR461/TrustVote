@@ -1,26 +1,6 @@
 # Full-Stack Voting-Dapp
 
-Build using Ethereum, React.js, Tailwind CSS and web3.js.
-
-## Table of Contents
-- [Project Description](#project-description)
-  - [Introduction](#introduction)
-  - [The Problem](#the-problem)
-  - [The Solution](#the-solution)
-  - [Key Features](#key-features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Smart Contract](#smart-contract)
-- [Frontend](#frontend)
-- [The Graph](#the-graph)
-- [Ethers.js](#ethersjs)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Author](#author)
-- [License](#license)
+Build using Ethereum,Solidity, React.js, Tailwind CSS and ethers.js.
 
 ## Project Description
 
@@ -98,9 +78,8 @@ The Solidity smart contract is responsible for managing elections, candidates, a
 ## Frontend
 The React.js frontend provides a user-friendly interface for interacting with the smart contract. Users can register as candidates and voters, vote during the voting period, and view election results.
 
-## Web3js
+## ethersJS
 Web3.js is used for interacting with the Ethereum blockchain, allowing the dApp to send and receive data securely.
-# ContributingContributions are welcome! If you'd like to contribute to this project, please open an issue or create a pull request with your changes.
 
 ## Author
 - Name: Yash Rastogi
