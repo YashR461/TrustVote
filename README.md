@@ -78,8 +78,15 @@ The Solidity smart contract is responsible for managing elections, candidates, a
 ## Frontend
 The React.js frontend provides a user-friendly interface for interacting with the smart contract. Users can register as candidates and voters, vote during the voting period, and view election results.
 
-## ethersJS
-Web3.js is used for interacting with the Ethereum blockchain, allowing the dApp to send and receive data securely.
+## ethers.JS
+ethers.js is used for interacting with the Ethereum blockchain, allowing the dApp to send and receive data securely.
 
-## Author
-- Name: Yash Rastogi
+<img width="1470" alt="Screenshot 2024-05-24 at 10 02 26 PM" src="https://github.com/user-attachments/assets/61e83d6b-f763-4279-960f-c7e5a2bdc1be">
+
+<img width="1461" alt="Screenshot 2024-05-25 at 8 51 53 AM" src="https://github.com/user-attachments/assets/6de8456e-f063-4206-ba56-ca0a1e82d51f">
+
+<img width="1461" alt="Screenshot 2024-05-25 at 8 52 05 AM" src="https://github.com/user-attachments/assets/8c43dee4-a3d1-4f28-ad58-4055a6631804">
+
+<img width="1461" alt="Screenshot 2024-05-25 at 8 52 13 AM" src="https://github.com/user-attachments/assets/979ff7aa-1aa7-4c38-8305-f2bff41e1511">
+
+<img width="1461" alt="Screenshot 2024-05-25 at 8 52 22 AM" src="https://github.com/user-attachments/assets/c91f9180-dd54-4beb-a4b7-323ad204617b">
